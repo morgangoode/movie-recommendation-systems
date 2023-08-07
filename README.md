@@ -11,8 +11,8 @@ Flatiron School Phase 4 Data Science Project
 
 ## Project Links
 
-*   [Jupyter Notebook]() 
-*   [Presentation]()
+*   [Jupyter Notebook](https://github.com/morgangoode/movie-recommendation-systems/blob/morgan/movie_recommendation_systems.ipynb) 
+*   [Presentation](https://github.com/morgangoode/movie-recommendation-systems/blob/morgan/movie-recommendation-systems-presentation.pdf)
 
 
 # Business Understanding
