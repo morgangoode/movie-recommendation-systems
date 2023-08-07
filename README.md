@@ -5,7 +5,7 @@ Flatiron School Phase 4 Data Science Project
 
 ## Team Members:
 
-*  [Justin Phan](), Technical Lead
+*  [Justin Phan](https://www.linkedin.com/in/vinh-phan427), Technical Lead
 
 *  [Morgan Goode](https://www.linkedin.com/in/morgangoode/), GitHub/Presentation Lead
 
