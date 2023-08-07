@@ -1,4 +1,6 @@
 # **Movie Recommendation System**
+![the answer to the cold start problem](./images/movie-recommendation-system-bluf.png)
+
 Flatiron School Phase 4 Data Science Project
 
 ## Team Members:
@@ -9,7 +11,7 @@ Flatiron School Phase 4 Data Science Project
 
 ## Project Links
 
-*   [Jupyter Notebook]]() 
+*   [Jupyter Notebook]() 
 *   [Presentation]()
 
 
