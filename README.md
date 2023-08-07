@@ -67,4 +67,11 @@ See the full analysis in the Jupyter Notebook or review this  [presentation](htt
 
 ## Repository Structure
 
+```
+├── data
+├── images
+├── README.md
+├── movie-recommendation-systems-presentation.pdf
+└── movie-recommendation-systems.ipynb
+```
 
