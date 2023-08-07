@@ -16,6 +16,7 @@ Flatiron School Phase 4 Data Science Project
 # Business Understanding
 
 ## Stakeholder + Background:
+![likewise app banner logo](./images/LWBanner_1584X396.jpg)
 With over 6.5 million users, Likewise is the biggest app of its kind and wants to stay ahead of the game with its recommendation systems. While Likewise is also a social platform, people join the app primarily to get recommendations on what to watch or read so recommendations are their bread and butter. 
 
 ## Our Goal:
