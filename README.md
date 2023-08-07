@@ -11,8 +11,8 @@ Flatiron School Phase 4 Data Science Project
 
 ## Project Links
 
-*   [Jupyter Notebook](https://github.com/morgangoode/movie-recommendation-systems/blob/morgan/movie_recommendation_systems.ipynb) 
-*   [Presentation](https://github.com/morgangoode/movie-recommendation-systems/blob/morgan/movie-recommendation-systems-presentation.pdf)
+*   [Jupyter Notebook](https://github.com/morgangoode/movie-recommendation-systems/blob/main/movie_recommendation_systems.ipynb) 
+*   [Presentation](https://github.com/morgangoode/movie-recommendation-systems/blob/main/movie-recommendation-systems-presentation.pdf)
 
 
 # Business Understanding
@@ -66,7 +66,7 @@ Step 2:  Use a more flexible model like a neural network to rank the shortlist.
 This ranking model can incorporate a wide variety of features, including the kinds of user and movie biases we’ve calculated. Many state-of-the-art recommender systems in industry employ such a solution.
 
 ## For more information
-See the full analysis in the Jupyter Notebook or review this  [presentation](https://github.com/morgangoode/movie-recommendation-systems/blob/morgan/movie-recommendation-systems-presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/morgangoode/movie-recommendation-systems/blob/main/movie_recommendation_systems.ipynb) or review this  [presentation](https://github.com/morgangoode/movie-recommendation-systems/blob/main/movie-recommendation-systems-presentation.pdf).
 
 ## Repository Structure
 
